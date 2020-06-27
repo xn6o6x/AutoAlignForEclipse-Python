@@ -60,7 +60,7 @@ for f in os.listdir("original"):
 ```
 食分大的偏食可能會得到矩形的結果，但是不礙事。以我的影像為例，C2 前的影像全部向上向左對齊，C3 後的影像全部向下向右對齊，就能在正確的位置對齊了。
 
-![](https://i.imgur.com/3qhRSY7.jpg | width=100)
+<img width="300" src="https://i.imgur.com/3qhRSY7.jpg">
 
 
 **Tips**：每一個圖層都轉存出來：`檔案` > `轉存` > `圖層轉存檔案`
