@@ -60,15 +60,14 @@ for f in os.listdir("original"):
 ```
 食分大的偏食可能會得到矩形的結果，但是不礙事。以我的影像為例，C2 前的影像全部向上向左對齊，C3 後的影像全部向下向右對齊，就能在正確的位置對齊了。
 
-![](https://i.imgur.com/3qhRSY7.jpg =50%x)
+![](https://i.imgur.com/3qhRSY7.jpg)
 
-:::info
-:bulb: **Tips**：每一個圖層都轉存出來：`檔案` > `轉存` > `圖層轉存檔案`
-:::
+
+**Tips**：每一個圖層都轉存出來：`檔案` > `轉存` > `圖層轉存檔案`
 
 # 成果
 > 偏食階段（5 分鐘拍一張）每張停留 0.1 秒，環食階段（1 秒拍一張）每張停留 1/30 秒
 
 > 利用 clideo 壓縮影片
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/2keuqf" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+![](https://i.imgur.com/NPTcmeO.gif)
